@@ -1,4 +1,4 @@
-[![MasterHead](https://i1.wp.com/mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif)]
+![MasterHead](https://i1.wp.com/mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif)
 <h1 align="center">Hi 👋, I'm Praveen Dilshan Rosa</h1>
 <h3 align="center">A passionate full stack developer from Sri lanka</h3>
 
